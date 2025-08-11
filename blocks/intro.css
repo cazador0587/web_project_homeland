@@ -1,5 +1,5 @@
 .intro{
-  margin-top: 92px;
+  margin-top: 20px;
   margin-left: clamp(20px, 492px + 50vw, 148px);
   max-width: 984px;
   align-self: start;
