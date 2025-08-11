@@ -1,0 +1,29 @@
+.header {
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  max-width: 984px;
+  text-align: center;
+}
+.header__title {
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 100px;
+  margin: 91px auto 0;
+  max-width: 720px;
+}
+
+.header__subtitle {
+  font-size: 30px;
+  line-height: 1.2;
+  margin: 32px auto 64px;
+  max-width: 720px;
+}
+.header__image {
+  aspect-ratio: 8/5;
+  object-fit: cover;
+  object-position: center;
+  filter: grayscale();
+  -webkit-filter: grayscale();
+  width: 100%;
+}

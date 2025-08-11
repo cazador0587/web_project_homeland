@@ -1,0 +1,33 @@
+.intro{
+  margin-top: 92px;
+  margin-left: clamp(20px, 492px + 50vw, 148px);
+  max-width: 984px;
+  align-self: start;
+}
+.intro__title{
+  max-width: 830px;
+  font-size: 54px;
+  font-weight: 900;
+  line-height: 58px
+}
+
+.intro__text_type_quote{
+  margin-top: 40px;
+  max-width: 738px;
+  font-size: 24px;
+  line-height: 34px;
+}
+.intro__text_type_author {
+  margin-top: 10px;
+  max-width: 732px;
+  text-align: end;
+  font-size: 24px;
+  line-height: 34px;
+  font-weight: 500;
+}
+.intro__text_type_description {
+  margin-top: 32px;
+  max-width: 722px;
+  line-height: 1.63;
+  font-weight: 500;
+}
