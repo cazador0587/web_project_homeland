@@ -1,4 +1,4 @@
-# Galeria de Arte de Tripeten Parte 1
+# Proyecto: Galeria de Arte de Tripeten Parte 1
 
 ## Descripcion del proyecto y funcionalidad
 
