@@ -1,5 +1,4 @@
-# Nombre del proyecto
-Galeria de Arte de Tripeten Parte 1
+# Galeria de Arte de Tripeten Parte 1
 
 ## Descripcion del proyecto y funcionalidad
 
