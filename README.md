@@ -4,14 +4,14 @@ Página Web para la galería de arte de TripleTen, donde el equipo que forma par
 
 ## Descripcion de las tecnologias y tecnicas utilizadas
 
-1 HTML5 semántico
-1 Flexbox
-1 Grid
-1 Posicionamiento
-1 Metodología BEM
-1 Gradientes y Sombras
-1 Pseudo-clases y Pseudo-elementos
-1 Diseño Responsive
+- HTML5 semántico
+- Flexbox
+- Grid
+- Posicionamiento
+- Metodología BEM
+- Gradientes y Sombras
+- Pseudo-clases y Pseudo-elementos
+- Diseño Responsive
 
 ## Visita el sitio Web por GitHub Pages
 
