@@ -30,6 +30,7 @@
   max-width: 722px;
   line-height: 1.63;
   font-weight: 500;
+  margin-bottom: 80px;
 }
 @media screen and (max-width: 1024px) {
   .intro {
